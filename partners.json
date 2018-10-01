@@ -1,0 +1,151 @@
+{
+
+    "allianz": { 
+        "config": { 
+            "zone": "fr" 
+          , "caid": ""
+        }
+    }
+
+  , "autrerive": { 
+      "config": { 
+          "zone": "fr" 
+        , "caid": ""
+      }
+    , "text": "Les obsèques ont été organisées par les Pompes Funèbres L'Autre Rive." 
+  }
+
+  , "auxia": { 
+        "config": { 
+            "zone": "fr" 
+          , "caid": ""
+          , "customEmail": true
+        }
+    }
+
+  , "aviva": { 
+        "config": { 
+            "zone": "fr" 
+          , "caid": ""
+        }
+    } 
+
+  , "gayoso": { 
+        "config": { 
+            "zone": "mx"
+          , "caid": "" 
+        }
+      , "flowers": {
+          "catalogue": []
+        }
+    }
+
+  , "haven-health": { 
+        "config": { 
+            "zone": "us" 
+          , "caid": ""
+        }
+    }   
+
+  , "holmes-watkins-funeral-home": { 
+        "config": { 
+            "zone": "us" 
+          , "caid": ""
+        }
+      , "text": "The memorial services have been organized by Holmes-Watkins Funeral Home, (860) 643-2441." 
+    }
+
+  , "imprimeur-paris": { 
+        "config": { 
+            "zone": "fr"
+          , "caid": "" 
+        }
+    }
+
+  , "interflora-fr": { 
+        "config": { 
+            "zone": "fr"
+          , "caid": "" 
+        }
+      , "flowers": {
+          "catalogue": []
+        }
+    }
+
+  , "lefigaro": { 
+        "config": { 
+            "zone": "fr" 
+          , "caid": ""
+          , "customEmail": true
+        }
+      , "text": "Ce service est proposé par le Carnet du Jour du Figaro." 
+    }
+
+   , "manchester-funeral-home": { 
+        "config": { 
+            "zone": "us" 
+          , "caid": ""
+          , "customEmail": true
+        }
+      , "text": "The memorial services have been organized by Manchester Funeral Home, (860) 643-6226." 
+    }
+
+  , "mutual-of-omaha": { 
+        "config": { 
+            "zone": "us" 
+          , "caid": ""
+        }
+    }
+
+  , "pfggeneve": { 
+        "config": { 
+            "zone": ""
+          , "caid": ""
+        }
+      , "text": "Les obsèques ont été organisées par les Pompes Funèbres Générales Genève, 022 342 30 60." 
+    }
+
+  , "philae": { 
+        "config": { 
+            "zone": "fr"
+          , "caid": ""
+        }
+      , "text": "Les obsèques ont été organisées par Philae, agence de pompes funèbres." 
+    } 
+
+  , "potter-funeral-home": { 
+        "config": { 
+            "zone": "us" 
+          , "caid": ""
+          , "customEmail": true
+        }
+      , "text": "The memorial services have been organized by Potter Funeral Home, (860) 423-2211." 
+    }
+
+  , "previseo": { 
+        "config": { 
+            "zone": "fr" 
+          , "caid": ""
+          , "customEmail": true
+        }
+    }    
+
+  , "scf": { 
+        "config": { 
+            "zone": "fr"
+          , "caid": ""
+          , "buyFlower": false 
+          , "customEmail": true
+        }
+      , "text": "Les obsèques ont été organisées par le Service Catholique des Funérailles de {{agency}}, agence de pompes funèbres." 
+    }
+
+  , "separateways": { 
+        "config": { 
+            "zone": ""
+          , "caid": ""
+        }
+      , "text": "L'événement de commémoration a été organisé par Separate Ways, 022 347 25 32." 
+    }
+
+}

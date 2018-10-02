@@ -1,0 +1,201 @@
+{
+  "list": [
+
+    { 
+        "key": "001"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "Europe/Paris"
+      , "active": true
+      , "desc": "Family - InMemori book & thank feature - 1W after ceremony"
+      , "target": "family"
+      , "offset": [-1, "week"]
+      , "queryKey": "places.0.date"
+      , "queryFilter": {"lang": "fr", "$where":"this.memories.length > 5"}
+    }
+  , { 
+        "key": "002"
+      , "active": false
+      , "desc": "Close ones : InMemori book order"
+      , "target": "friends"
+      , "offset": [-1, "week"]
+      , "queryKey": "places.0.date"
+      , "queryFilter": {"lang": "fr", "$where":"this.memories.length > 5"}
+    }
+  , { 
+        "key": "003"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "Europe/Paris"
+      , "active": true
+      , "desc": "Family : Ambassador eMail - 15D after ceremony"
+      , "target": "family"
+      , "offset": [-15, "day"]
+      , "queryKey": "places.0.date"
+      , "queryFilter": {"lang": "fr", "meta.views": { "$gt": 10 }}
+    }
+  , { 
+        "key": "004"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "Europe/Paris"
+      , "active": false
+      , "desc": "Family : eMail 1Y after death"
+      , "target": "family"
+      , "offset": [-1, "year"]
+      , "queryKey": "dod"
+      , "queryFilter": {"lang": "fr", "meta.views": { "$gt": 10 }}
+    }
+  , { 
+        "key": "005"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "Europe/Paris"
+      , "active": false
+      , "desc": "Close ones : eMail 1Y after death"
+      , "target": "friends"
+      , "offset": [-1, "year"]
+      , "queryKey": "dod"
+      , "queryFilter": {"lang": "fr", "meta.views": { "$gt": 10 }}
+    }
+  , { 
+        "key": "006"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "Europe/Paris"
+      , "active": false
+      , "desc": "Close ones : eMail 1M after death"
+      , "target": "friends"
+      , "offset": [-1, "month"]
+      , "queryKey": "dod"
+      , "queryFilter": {"lang": "fr", "meta.views": { "$gt": 10 }}
+    }
+  , { 
+        "key": "007"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "Europe/Paris"
+      , "active": false
+      , "desc": "Family : eMail 1M after death"
+      , "target": "family"
+      , "offset": [-1, "month"]
+      , "queryKey": "dod"
+      , "queryFilter": {"lang": "fr", "meta.views": { "$gt": 10 }}
+    }
+  , { 
+        "key": "008"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "Europe/Paris" 
+      , "active": true
+      , "desc": "Close ones : Ambassador eMail - 15D after ceremony"
+      , "target": "friends"
+      , "offset": [-15, "day"]
+      , "queryKey": "places.0.date"
+      , "queryFilter": {"lang": "fr", "meta.views": { "$gt": 10 }}
+    }
+   ,{ 
+        "key": "009"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "America/New_York"
+      , "active": true
+      , "desc": "Family : Thank feature - 1W after ceremony"
+      , "target": "family"
+      , "offset": [-1, "week"]
+      , "queryKey": "places.0.date"
+      , "queryFilter": {"lang": "en", "meta.views": { "$gt": 10 }}
+    }
+  , { 
+        "key": "010"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "America/New_York"
+      , "active": false
+      , "desc": "Close ones : InMemori book order"
+      , "target": "friends"
+      , "offset": [-1, "week"]
+      , "queryKey": "places.0.date"
+      , "queryFilter": {"lang": "en", "slug":"mdarricourt", "memories.0":{"$exists":1}}
+    }
+  , { 
+        "key": "011"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "America/New_York"
+      , "active": true
+      , "desc": "Family : Ambassador eMail - 15D after ceremony"
+      , "target": "family"
+      , "offset": [-15, "day"]
+      , "queryKey": "places.0.date"
+      , "queryFilter": {"lang": "en", "meta.views": { "$gt": 10 }}
+    }
+  , { 
+        "key": "012"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "America/New_York"
+      , "active": false
+      , "desc": "Family : eMail 1Y after death"
+      , "target": "family"
+      , "offset": [-1, "year"]
+      , "queryKey": "dod"
+      , "queryFilter": {"lang": "en", "meta.views": { "$gt": 10 }}
+    }
+  , { 
+        "key": "013"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "America/New_York"
+      , "active": false
+      , "desc": "Close ones : eMail 1Y after death"
+      , "target": "friends"
+      , "offset": [-1, "year"]
+      , "queryKey": "dod"
+      , "queryFilter": {"lang": "en", "meta.views": { "$gt": 10 }}
+    }
+  , { 
+        "key": "014"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "America/New_York"
+      , "active": false
+      , "desc": "Close ones : eMail 1M after death"
+      , "target": "friends"
+      , "offset": [-1, "month"]
+      , "queryKey": "dod"
+      , "queryFilter": {"lang": "en", "meta.views": { "$gt": 10 }}
+    }
+  , { 
+        "key": "015"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "America/New_York"
+      , "active": false
+      , "desc": "Family : eMail 1M after death"
+      , "target": "family"
+      , "offset": [-1, "month"]
+      , "queryKey": "dod"
+      , "queryFilter": {"lang": "en", "meta.views": { "$gt": 10 }}
+    }
+  , { 
+        "key": "016"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "America/New_York"
+      , "active": true
+      , "desc": "Close ones : Ambassador eMail - 15D after ceremony"
+      , "target": "friends"
+      , "offset": [-15, "day"]
+      , "queryKey": "places.0.date"
+      , "queryFilter": {"lang": "en", "meta.views": { "$gt": 10 }}
+    }
+  , { 
+        "key": "017"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "Europe/Paris"
+      , "active": false
+      , "desc": "Close ones : InMemori Book order SCF - 1W after ceremony"
+      , "target": "friends"
+      , "offset": [-1, "week"]
+      , "queryKey": "places.0.date"
+      , "queryFilter": {"lang": "fr", "partner": "scf","$where":"this.memories.length > 5"}
+    }
+  , { 
+        "key": "018"
+      , "pattern": "00 30 18 * * *"
+      , "tz": "Europe/Paris"
+      , "active": false
+      , "desc": "Rating - L'Autre Rive"
+      , "target": "family"
+      , "offset": [-1, "week"]
+      , "queryKey": "places.0.date"
+      , "queryFilter": {"lang": "fr", "meta.partner": { "$in": ["autrerive", "autrerive15", "autrerivelyon"] }}
+    }
+]
+}

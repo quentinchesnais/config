@@ -27,6 +27,7 @@
         "config": { 
             "zone": "fr" 
           , "caid": ""
+          , "customEmail": true
         }
     } 
 
@@ -34,9 +35,6 @@
         "config": { 
             "zone": "mx"
           , "caid": "" 
-        }
-      , "flowers": {
-          "catalogue": []
         }
     }
 
@@ -66,9 +64,6 @@
         "config": { 
             "zone": "fr"
           , "caid": "" 
-        }
-      , "flowers": {
-          "catalogue": []
         }
     }
 

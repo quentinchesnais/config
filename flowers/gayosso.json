@@ -78,7 +78,7 @@
         , "price": 2400.00
         , "img": ["http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Emotion_01_ftrr4o", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Emotion_02_o5qbfu", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Emotion_03_qaiqep", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/E%CC%81motion_04_mydj4j"]
         , "info": { 
-              "fr": "Rosas, lilis, anturios y maracas.\nTodos nuestros arreglos se elaboran de manera personal y dedicada por parte de floristas expertos, eligiendo las flores de la mejor calidad y frescura para su entera satisfacción." 
+              "es": "Rosas, lilis, anturios y maracas.\nTodos nuestros arreglos se elaboran de manera personal y dedicada por parte de floristas expertos, eligiendo las flores de la mejor calidad y frescura para su entera satisfacción." 
             , "en": "Roses, lilies, anthuriums and maracas.\nAll our arrangements are made in a personal and dedicated way by expert florists, choosing the flowers of the best quality and freshness for your entire satisfaction." 
           }
       }

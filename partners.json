@@ -67,15 +67,6 @@
           , "caid": "" 
         }
     }
-  
-  , "default-mx-partner": { 
-        "config": { 
-            "zone": "mx"
-          , "caid": "" 
-          , "buyFlower": false
-        }
-    }
-    
 
   , "lefigaro": { 
         "config": { 

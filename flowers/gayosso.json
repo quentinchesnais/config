@@ -6,7 +6,7 @@
           "name": "Anturios y Rosas"
         , "product": "1A"
         , "price": 970.00
-        , "img": ["http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_01_kydrbr", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_02_mhzsqa", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_03_sxzmya", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Souvenir_04_eg9e4p"]
+        , "img": ["https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Anturios_y_rosas", "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Anturios_y_rosas_2"]
         , "info": { 
               "es": "Delicado arreglo compuesto por bellos anturios y rosas que expresan respeto y admiración.\nTodos nuestros arreglos se elaboran de manera personal y dedicada por parte de floristas expertos, eligiendo las flores de la mejor calidad y frescura para su entera satisfacción." 
             , "en": "Delicate arrangement composed of beautiful anthuriums and roses to express respect and admiration.\nAll our arrangements are made in a personal and dedicated way by expert florists, choosing the flowers of the best quality and freshness for your entire satisfaction." 
@@ -16,7 +16,7 @@
           "name": "Armonia"
         , "product": "1B"
         , "price": 1165.00
-        , "img": ["http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Etoile_01_qtff3a", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Etoile_02_o1bcwj", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Etoile_03_inspnm", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Etoile_04_hzbpdw"]
+        , "img": ["https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Armoni%CC%81a", "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Armoni%CC%81a_2"]
         , "info": { 
               "es": "Armonioso bouquet formado por delicadas rosas lilis y perritos perfecto para acompañar a sus familiares o amigos en la despedida de su ser querido.\nTodos nuestros arreglos se elaboran de manera personal y dedicada por parte de floristas expertos, eligiendo las flores de la mejor calidad y frescura para su entera satisfacción." 
             , "en": "Harmonious bouquet composed of delicate lilies roses and snapdragons. Perfect to accompany your family or friends in the farewell of their loved one.\nAll our arrangements are made in a personal and dedicated way by expert florists, choosing the flowers of the best quality and freshness for your entire satisfaction." 
@@ -26,7 +26,7 @@
           "name": "Horizontal"
         , "product": "1C"
         , "price": 1165.00
-        , "img": ["http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Sonate_01_vadj0u", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Sonate_02_y3fd1u", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Sonate_03_hqbfxs", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Sonate_04_z4vnmx"]
+        , "img": ["https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Horizontal", "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Horizontal_2"]
         , "info": { 
               "es": "Fino y delicado bouquet de rosas y lilis diseñado para expresar apoyo y respeto.\nTodos nuestros arreglos se elaboran de manera personal y dedicada por parte de floristas expertos, eligiendo las flores de la mejor calidad y frescura para su entera satisfacción." 
             , "en": "Fine and delicate bouquet of roses and lilies to express support and respect.\nAll our arrangements are made in a personal and dedicated way by expert florists, choosing the flowers of the best quality and freshness for your entire satisfaction." 
@@ -36,7 +36,7 @@
           "name": "Canasta de Rosas"
         , "product": "1D"
         , "price": 1065.00
-        , "img": ["http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Rosae_01_vudhts", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Rosae_02_soa7eh", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Rosae_03_cw5zzq", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Rosae_04_qxdbhs"]
+        , "img": ["https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Canasta_de_Rosas"]
         , "info": { 
               "es": "Bello ensamble de rosas  contenidas en una linda canasta ideal para presentar condolencias y respeto.\nTodos nuestros arreglos se elaboran de manera personal y dedicada por parte de floristas expertos, eligiendo las flores de la mejor calidad y frescura para su entera satisfacción." 
             , "en": "Beautiful arrangement of roses in a beautiful basket. Ideal to present condolences and show respect.\nAll our arrangements are made in a personal and dedicated way by expert florists, choosing the flowers of the best quality and freshness for your entire satisfaction." 
@@ -46,7 +46,7 @@
           "name": "Corona de Hortensias"
         , "product": "1E"
         , "price": 2625.00
-        , "img": ["http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_01_tgdn6l", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_02_ziwosf", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_03_wtqff4", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Symphonie_04_m8llrn"]
+        , "img": ["https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Corona_de_Hortensias", "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Corona_de_Hortensias_2", "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Corona_de_Hortensias_3"]
         , "info": { 
               "es": "Hermosa corona delicadamente arreglada con hortensias, rosas, lisiantus y lilis. Ideal para demostrar acompañamiento y apoyo.\nTodos nuestros arreglos se elaboran de manera personal y dedicada por parte de floristas expertos, eligiendo las flores de la mejor calidad y frescura para su entera satisfacción." 
             , "en": "Beautiful crown delicately arranged with hydrangeas, roses, lisianthus and lilies. Ideal to show support and love.\nAll our arrangements are made in a personal and dedicated way by expert florists, choosing the flowers of the best quality and freshness for your entire satisfaction." 
@@ -56,7 +56,7 @@
           "name": "Corona Imperial"
         , "product": "1F"
         , "price": 1880.00
-        , "img": ["http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pensee_01_ef1mut", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pense%CC%81e_02_iq9l0o", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pense%CC%81e_03_jthtes", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pense%CC%81e_04_efkvw7"]
+        , "img": ["https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Corona_Imperial", "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Corona_Imperial_2"]
         , "info": { 
               "es": "Magistral corona  de rosas, lilis y polar para acompañar en momentos de rendir homenaje a su ser querido.\nTodos nuestros arreglos se elaboran de manera personal y dedicada por parte de floristas expertos, eligiendo las flores de la mejor calidad y frescura para su entera satisfacción." 
             , "en": "Magistral crown of roses and lilies to pay homage to your loved one.\nAll our arrangements are made in a personal and dedicated way by expert florists, choosing the flowers of the best quality and freshness for your entire satisfaction." 
@@ -66,7 +66,7 @@
           "name": "Jardinera Celestial"
         , "product": "1G"
         , "price": 1570.00
-        , "img": ["http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Ceremonie_01_zjam5v", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Ce%CC%81re%CC%81monie_02_dvxovt", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Ce%CC%81re%CC%81monie_03_mfu31w", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Ce%CC%81re%CC%81monie_04_aggxcx"]
+        , "img": ["https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Jardinera_Celestial", "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Jardinera_Celestial_2"]
         , "info": { 
               "es": "Fina composición floral de rosas, lilis, anturios, iris y leatrix perfectas para demostrar respeto y solidaridad.\nTodos nuestros arreglos se elaboran de manera personal y dedicada por parte de floristas expertos, eligiendo las flores de la mejor calidad y frescura para su entera satisfacción." 
             , "en": "Fine floral composition of roses, lilies, anthuriums, iris and liatris. Perfect to show respect and solidarity.\nAll our arrangements are made in a personal and dedicated way by expert florists, choosing the flowers of the best quality and freshness for your entire satisfaction." 
@@ -76,7 +76,7 @@
           "name": "Canasta Imperial"
         , "product": "1H"
         , "price": 2400.00
-        , "img": ["http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Emotion_01_ftrr4o", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Emotion_02_o5qbfu", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Emotion_03_qaiqep", "http://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/E%CC%81motion_04_mydj4j"]
+        , "img": ["https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Canasta_Imperial", "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Canasta_Imperial_2", "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Canasta_Imperial_3"]
         , "info": { 
               "es": "Rosas, lilis, anturios y maracas.\nTodos nuestros arreglos se elaboran de manera personal y dedicada por parte de floristas expertos, eligiendo las flores de la mejor calidad y frescura para su entera satisfacción." 
             , "en": "Roses, lilies, anthuriums and maracas.\nAll our arrangements are made in a personal and dedicated way by expert florists, choosing the flowers of the best quality and freshness for your entire satisfaction." 

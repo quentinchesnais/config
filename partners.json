@@ -34,7 +34,8 @@
   , "gayosso": { 
         "config": { 
             "zone": "mx"
-          , "caid": "" 
+          , "caid": ""
+          , "buyFlower": "gayosso"
         }
     }
 
@@ -66,6 +67,15 @@
           , "caid": "" 
         }
     }
+  
+  , "default-mx-partner": { 
+        "config": { 
+            "zone": "mx"
+          , "caid": "" 
+          , "buyFlower": false
+        }
+    }
+    
 
   , "lefigaro": { 
         "config": { 

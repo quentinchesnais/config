@@ -1,5 +1,8 @@
 {
-    "shippingPrice": 15.90
+    "shipping": {
+        "price": 15.90
+      , "info": "Mexico shipping info"
+    }   
   , "email": "interflora@inmemori.com"
   , "catalog": [
       { 

@@ -35,6 +35,7 @@
         "config": { 
             "zone": "mx"
           , "caid": "acct_1DJiYCAqHkZ6SvCW"
+          , "cut": 20
           , "buyFlower": "gayosso"
         }
     }

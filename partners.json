@@ -34,7 +34,7 @@
   , "gayosso": { 
         "config": { 
             "zone": "mx"
-          , "caid": ""
+          , "caid": "acct_1DJiYCAqHkZ6SvCW"
           , "buyFlower": "gayosso"
         }
     }
@@ -57,14 +57,14 @@
   , "imprimeur-paris": { 
         "config": { 
             "zone": "fr"
-          , "caid": "" 
+          , "caid": "acct_1DJiXzJKN6oQQmCR" 
         }
     }
 
   , "interflora-fr": { 
         "config": { 
             "zone": "fr"
-          , "caid": "" 
+          , "caid": "acct_1DJiYIGMg492Tv0T" 
         }
     }
 

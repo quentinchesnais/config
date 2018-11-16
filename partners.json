@@ -4,6 +4,7 @@
         "config": { 
             "zone": "fr" 
           , "caid": ""
+          , "customEmail": true
         }
     }
 

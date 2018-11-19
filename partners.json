@@ -31,6 +31,14 @@
           , "customEmail": true
         }
     } 
+    
+  , "prevoir": { 
+        "config": { 
+            "zone": "fr" 
+          , "caid": ""
+          , "customEmail": true
+        }
+    }   
 
   , "gayosso": { 
         "config": { 

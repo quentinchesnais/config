@@ -1,5 +1,5 @@
 {
-     "xxx": { "buyFlower": false, "buyBook": false }
+     "xxx": { "buyFlower": false, "buyBook": false, "dummyPlace": false }
    , "pfronteau": { "buyBook": false } 
    , "mfourcade-e24qt": { "buyFlower": false }
    , "chusson-e39ug": { "blockEmail": "marie2", "blockMessage": "", "blockName": "" }

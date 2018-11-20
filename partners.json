@@ -1,7 +1,8 @@
 {
 
     "allianz": { 
-        "config": { 
+        "type" : "insurance"
+      , "config": { 
             "zone": "fr" 
           , "caid": ""
           , "customEmail": true
@@ -9,7 +10,8 @@
     }
 
   , "autrerive": { 
-      "config": { 
+     "type" : "funeral"
+   , "config": { 
           "zone": "fr" 
         , "caid": ""
       }
@@ -17,7 +19,8 @@
   }
 
   , "auxia": { 
-        "config": { 
+      "type" : "insurance" 
+    , "config": { 
             "zone": "fr" 
           , "caid": ""
           , "customEmail": true
@@ -25,7 +28,8 @@
     }
 
   , "aviva": { 
-        "config": { 
+      "type" : "insurance" 
+    , "config": { 
             "zone": "fr" 
           , "caid": ""
           , "customEmail": true
@@ -33,7 +37,8 @@
     } 
     
   , "prevoir": { 
-        "config": { 
+      "type" : "insurance" 
+    , "config": { 
             "zone": "fr" 
           , "caid": ""
           , "customEmail": true
@@ -41,7 +46,8 @@
     }   
 
   , "gayosso": { 
-        "config": { 
+      "type" : "funeral"
+    , "config": { 
             "zone": "mx"
           , "caid": "acct_1DJiYCAqHkZ6SvCW"
           , "cut": 20
@@ -50,14 +56,16 @@
     }
 
   , "haven-health": { 
-        "config": { 
+     "type" : "hospice"
+   , "config": { 
             "zone": "us" 
           , "caid": ""
         }
     }   
 
   , "holmes-watkins-funeral-home": { 
-        "config": { 
+      "type" : "funeral" 
+    , "config": { 
             "zone": "us" 
           , "caid": ""
         }
@@ -79,7 +87,8 @@
     }
 
   , "lefigaro": { 
-        "config": { 
+      "type" : "media"
+   ,  "config": { 
             "zone": "fr" 
           , "caid": ""
           , "customEmail": true
@@ -88,7 +97,8 @@
     }
 
    , "manchester-funeral-home": { 
-        "config": { 
+       "type" : "funeral"
+    ,  "config": { 
             "zone": "us" 
           , "caid": ""
           , "customEmail": true
@@ -97,14 +107,16 @@
     }
 
   , "mutual-of-omaha": { 
-        "config": { 
+      "type" : "insurance"
+    , "config": { 
             "zone": "us" 
           , "caid": ""
         }
     }
 
   , "pfggeneve": { 
-        "config": { 
+      "type" : "funeral"
+    , "config": { 
             "zone": ""
           , "caid": ""
         }
@@ -112,7 +124,8 @@
     }
 
   , "philae": { 
-        "config": { 
+      "type" : "funeral" 
+    , "config": { 
             "zone": "fr"
           , "caid": ""
         }
@@ -120,7 +133,8 @@
     } 
 
   , "potter-funeral-home": { 
-        "config": { 
+      "type" : "funeral"
+    , "config": { 
             "zone": "us" 
           , "caid": ""
           , "customEmail": true
@@ -129,7 +143,8 @@
     }
 
   , "previseo": { 
-        "config": { 
+      "type" : "insurance" 
+    , "config": { 
             "zone": "fr" 
           , "caid": ""
           , "customEmail": true
@@ -137,7 +152,8 @@
     }    
 
   , "scf": { 
-        "config": { 
+      "type" : "funeral" 
+    , "config": { 
             "zone": "fr"
           , "caid": ""
           , "buyFlower": false 
@@ -147,7 +163,8 @@
     }
 
   , "separateways": { 
-        "config": { 
+      "type" : "funeral" 
+    , "config": { 
             "zone": ""
           , "caid": ""
         }

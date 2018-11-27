@@ -1,7 +1,8 @@
 {
     "shipping": {
         "price": 0
-      , "info": "Mexico shipping info"
+      , "info": ""
+      , "payInfo": ""
     }    
   , "email": "gayosso@inmemori.com"
   , "catalog": [

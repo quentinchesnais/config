@@ -3,5 +3,6 @@
    , "pfronteau": { "buyBook": false } 
    , "mfourcade-e24qt": { "buyFlower": false }
    , "chusson-e39ug": { "blockEmail": "marie2", "blockMessage": "", "blockName": "" }
-   , "pdurand-e13rg": { "buyFlower": false }    
+   , "pdurand-e13rg": { "buyFlower": false }
+   , "bbarcelo": {"dummyPlace": false }  
 }

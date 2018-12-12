@@ -53,6 +53,7 @@
           , "cut": 20
           , "buyFlower": "gayosso"
         }
+    , "text"  : "El funeral fue organizado por {{agency}}, 01800GAYOSSO."
     }
 
   , "haven-health": { 

@@ -51,6 +51,7 @@
             "zone": "mx"
           , "caid": "acct_1DJiYCAqHkZ6SvCW"
           , "cut": 20
+          , "customEmail": true
           , "buyFlower": "gayosso"
         }
     , "text"  : "El funeral fue organizado por {{agency}}, 01800GAYOSSO."
